@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "About"
-    url: https://ganzik.github.io/ganzik/about/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
@@ -10,5 +8,7 @@ main:
     url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-  #  url: /sitemap/
+  - title: "Sitemap"
+    url: /sitemap/
+  - title: "About"
+    url: https://ganzik.github.io/ganzik/about/
