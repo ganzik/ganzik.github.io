@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitmap: https://ganzik.github.io/sitemap.xml
