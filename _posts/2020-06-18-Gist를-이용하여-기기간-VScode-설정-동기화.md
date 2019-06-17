@@ -34,8 +34,8 @@ Extentions(ctl+cmd+x) -> code-setting-sync
 
 GitHub 계정의 Personal Access Token을 이용해서 gist를 업로드, 다운로드하여 동기화하기 위해 토큰을 생성
 
-GitHub 계정 로그인 > Settings > Developer settings> Personal Access Tokens > Generate New Token
 ![generate new token](/assets/images/gist_1.png)
+GitHub 계정 로그인 > Settings > Developer settings> Personal Access Tokens > Generate New Token
 
 ![check gist](/assets/images/gist_2.png)
 토큰 사용 용도로 gist를 체크
