@@ -20,13 +20,15 @@ title: "GANZIK"
 title_separator: "-"
 name: "kimkihong"
 description: "The Story of GANZIK"
-url: https://ganzik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://ganzik.github.io # the base hostname & protocol for your site e.g. "https://ganzik.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: ganzik/ganzik.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: ganzik/ganzik.github.io # GitHub username/repo-name e.g. "ganzik/minimal-mistakes"
+head_scripts:
+  - https://code.jquery.com/jquery-3.2.1.min.js
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
   provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -106,7 +108,7 @@ analytics:
 # Site Author
 author:
   name: "kimkihong"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/ganzikprofile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Hello"
   location: "Seoul, Korea"
   email: "ganzik83@gmail.com"
@@ -282,4 +284,4 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false
