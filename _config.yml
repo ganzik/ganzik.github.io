@@ -130,7 +130,7 @@ author:
       url: "https://github.com/ganzik"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/kimkihong_/"
 
 # Site Footer
 footer:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/kimkihong_/
+      url: "https://www.instagram.com/kimkihong_/"
 
 # Reading Files
 include:
