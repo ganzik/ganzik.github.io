@@ -30,7 +30,7 @@ Github Gist를 이용하여 여러기기에 VScode Extention 공유하는 방법
 
 Extentions(ctl+cmd+x) -> code-setting-sync
 
-## Github Personal Access Token 셍성하기
+## Github Personal Access Token 생성하기
 
 GitHub 계정의 Personal Access Token을 이용해서 gist를 업로드, 다운로드하여 동기화하기 위해 토큰을 생성
 
