@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name: "kimkihong"
-  avatar: "/assets/images/ganzikprofile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/ganzikprofile1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Hello"
   location: "Seoul, Korea"
   email: "ganzik83@gmail.com"
