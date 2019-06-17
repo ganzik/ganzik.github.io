@@ -28,7 +28,7 @@ tags:
 
 Extentions(ctl+cmd+x) -> code-setting-sync
 
-## Get the Github Personal Access Token
+## Github Personal Access Token 셍성하기
 
 GitHub 계정의 Personal Access Token을 이용해서 gist를 업로드, 다운로드하여 동기화하기 위해 토큰을 생성
 
