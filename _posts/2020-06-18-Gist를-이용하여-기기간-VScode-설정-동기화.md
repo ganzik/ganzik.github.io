@@ -20,11 +20,13 @@ tags:
   - Github
 ---
 
+Github Gist를 이용하여 여러기기에 VScode Extention 공유하는 방법에 대해 알아보자
+
 ## Settings Sync
 
 <https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync>
 
-## VScode에서 Extention Setup
+## VScode에서 Extention 설치하기
 
 Extentions(ctl+cmd+x) -> code-setting-sync
 
@@ -33,14 +35,13 @@ Extentions(ctl+cmd+x) -> code-setting-sync
 GitHub 계정의 Personal Access Token을 이용해서 gist를 업로드, 다운로드하여 동기화하기 위해 토큰을 생성
 
 GitHub 계정 로그인 > Settings > Developer settings> Personal Access Tokens > Generate New Token
-
 ![generate new token](/assets/images/gist_1.png)
-토큰 사용 용도로 gist를 체크
 
 ![check gist](/assets/images/gist_2.png)
-생성된 토큰은 복사해서 보관
+토큰 사용 용도로 gist를 체크
 
 ![generated new token](/assets/images/gist_3.png)
+생성된 토큰은 복사해서 보관
 
 ## 셋팅값을 Gist에 업로드
 
