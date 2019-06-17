@@ -7,7 +7,7 @@ related: false
 
 comments: true
 
-read_time: true
+read_time: false
 
 categories:
   - VScode
