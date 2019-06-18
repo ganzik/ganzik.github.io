@@ -265,7 +265,7 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 
 ---
 
-## 실습
+# 실습
 
 ![HTML Lists(리스트) 실습](/assets/images/list1.png)
 위의 예제와 같이 리스트를 작성하라
@@ -320,5 +320,6 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 
 ---
 
-참조  
+# 참조
+
 <https://www.w3schools.com/html/html_lists.asp>
