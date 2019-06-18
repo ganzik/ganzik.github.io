@@ -19,7 +19,7 @@ tags:
   - HTML List
 ---
 
-<h2>Ordered HTML List</h2>
+# Ordered HTML List
 
 \<ol> 태그는 순서대로 숫자 또는 문자로 표기한다.
 
@@ -133,7 +133,7 @@ tags:
 >     <li>배</li>
 > </ol>
 
-<h2>Unordered HTML List</h2>
+# Unordered HTML List
 
 \<ul> 태그는 숫자나 문자같은 순서 지정 없이 블랙도트 같은 특수기호로 표현하여 나열한다
 
