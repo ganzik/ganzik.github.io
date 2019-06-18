@@ -36,12 +36,12 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ol>
 ```
 
-> <ol>
->     <li>아침에 일어난다</li>
->     <li>세수를 한다</li>
->     <li>밥을 먹는다</li>
->     <li>출근을 한다</li>
-> </ol>
+<ol>
+    <li>아침에 일어난다</li>
+    <li>세수를 한다</li>
+    <li>밥을 먹는다</li>
+    <li>출근을 한다</li>
+</ol>
 
 ## Orderd HTML List - Type 속성
 
@@ -57,11 +57,11 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ol>
 ```
 
-> <ol type="1">
->     <li>비행기</li>
->     <li>자동차</li>
->     <li>배</li>
-> </ol>
+<ol type="1">
+    <li>비행기</li>
+    <li>자동차</li>
+    <li>배</li>
+</ol>
 
 ### Type="A"
 
@@ -75,11 +75,11 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ol>
 ```
 
-> <ol type="A">
->     <li>비행기</li>
->     <li>자동차</li>
->     <li>배</li>
-> </ol>
+<ol type="A">
+    <li>비행기</li>
+    <li>자동차</li>
+    <li>배</li>
+</ol>
 
 ### Type="a"
 
@@ -93,11 +93,11 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ol>
 ```
 
-> <ol type="a">
->     <li>비행기</li>
->     <li>자동차</li>
->     <li>배</li>
-> </ol>
+<ol type="a">
+    <li>비행기</li>
+    <li>자동차</li>
+    <li>배</li>
+</ol>
 
 ### Type="I"
 
@@ -111,11 +111,11 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ol>
 ```
 
-> <ol type="I">
->     <li>비행기</li>
->     <li>자동차</li>
->     <li>배</li>
-> </ol>
+<ol type="I">
+    <li>비행기</li>
+    <li>자동차</li>
+    <li>배</li>
+</ol>
 
 ### Type="i"
 
@@ -129,11 +129,11 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ol>
 ```
 
-> <ol type="i">
->     <li>비행기</li>
->     <li>자동차</li>
->     <li>배</li>
-> </ol>
+<ol type="i">
+    <li>비행기</li>
+    <li>자동차</li>
+    <li>배</li>
+</ol>
 
 ## Control List Counting(지정된 숫자부터 순서를 나열하는 리스트)
 
@@ -147,11 +147,11 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ol>
 ```
 
-> <ol start="77">
->   <li>비행기</li>
->   <li>자동차</li>
->   <li>배</li>
-> </ol>
+<ol start="77">
+  <li>비행기</li>
+  <li>자동차</li>
+  <li>배</li>
+</ol>
 
 # Unordered HTML List(순서가 없는 리스트)
 
@@ -173,11 +173,11 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ul>
 ```
 
-> <ul style="list-style-type:disc;">
->   <li>비행기</li>
->   <li>자동차</li>
->   <li>배</li>
-> </ul>
+<ul style="list-style-type:disc;">
+  <li>비행기</li>
+  <li>자동차</li>
+  <li>배</li>
+</ul>
 
 ### Circle 속성
 
@@ -191,11 +191,11 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ul>
 ```
 
-> <ul style="list-style-type:circle;">
->   <li>비행기</li>
->   <li>자동차</li>
->   <li>배</li>
-> </ul>
+<ul style="list-style-type:circle;">
+  <li>비행기</li>
+  <li>자동차</li>
+  <li>배</li>
+</ul>
 
 ### Square 속성
 
@@ -209,11 +209,11 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ul>
 ```
 
-> <ul style="list-style-type:square;">
->   <li>비행기</li>
->   <li>자동차</li>
->   <li>배</li>
-> </ul>
+<ul style="list-style-type:square;">
+  <li>비행기</li>
+  <li>자동차</li>
+  <li>배</li>
+</ul>
 
 ### None 속성
 
@@ -227,11 +227,11 @@ HTML은 리스트(List)를 출력하는 요소가 존재한다. 순서가 있는
 </ul>
 ```
 
-> <ul style="list-style-type:none;">
->   <li>비행기</li>
->   <li>자동차</li>
->   <li>배</li>
-> </ul>
+<ul style="list-style-type:none;">
+  <li>비행기</li>
+  <li>자동차</li>
+  <li>배</li>
+</ul>
 
 # HTML Description Lists(정의형 리스트)
 
