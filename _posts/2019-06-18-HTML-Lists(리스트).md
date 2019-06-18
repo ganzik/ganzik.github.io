@@ -19,7 +19,7 @@ tags:
   - HTML List
 ---
 
-## Ordered HTML List
+<h2>Ordered HTML List</h2>
 
 \<ol> 태그는 순서대로 숫자 또는 문자로 표기한다.
 
@@ -41,9 +41,9 @@ tags:
 >     <li>출근을 한다</li>
 > </ol>
 
-### Orderd HTML List - Type 속성
+## Orderd HTML List - Type 속성
 
-#### Type="1"
+### Type="1"
 
 숫자를 순차적으로 나열한다
 
@@ -61,7 +61,7 @@ tags:
 >     <li>배</li>
 > </ol>
 
-#### Type="A"
+### Type="A"
 
 대문자 A부터 순차적으로 나열한다
 
@@ -79,7 +79,7 @@ tags:
 >     <li>배</li>
 > </ol>
 
-#### Type="a"
+### Type="a"
 
 소문자 a부터 순차적으로 나열한다
 
@@ -97,7 +97,7 @@ tags:
 >     <li>배</li>
 > </ol>
 
-#### Type="I"
+### Type="I"
 
 로마자 숫자 대문자를 순차적으로 나열한다
 
@@ -115,7 +115,7 @@ tags:
 >     <li>배</li>
 > </ol>
 
-#### Type="i"
+### Type="i"
 
 로마자 숫자 소문자를 순차적으로 나열한다
 
@@ -133,15 +133,15 @@ tags:
 >     <li>배</li>
 > </ol>
 
-## Unordered HTML List
+<h2>Unordered HTML List</h2>
 
 \<ul> 태그는 숫자나 문자같은 순서 지정 없이 블랙도트 같은 특수기호로 표현하여 나열한다
 
-### Unordered HTML List - 스타일 속성
+## Unordered HTML List - 스타일 속성
 
 \<ul> 태그는 `list-style-type` 스타일 속성을 지정하여 모양을 다르게 나타낼 수 있다
 
-#### disc 속성
+### disc 속성
 
 스타일 속성을 지정하지 않아도 기본값으로 들어간다
 
@@ -159,7 +159,7 @@ tags:
 >   <li>배</li>
 > </ul>
 
-#### Circle 속성
+### Circle 속성
 
 도넛 모양의 원으로 나타낸다
 
@@ -177,7 +177,7 @@ tags:
 >   <li>배</li>
 > </ul>
 
-#### Square 속성
+### Square 속성
 
 사각으로 나타낸다
 
@@ -195,7 +195,7 @@ tags:
 >   <li>배</li>
 > </ul>
 
-#### None 속성
+### None 속성
 
 아무런 기호도 나타내지 않는다
 
