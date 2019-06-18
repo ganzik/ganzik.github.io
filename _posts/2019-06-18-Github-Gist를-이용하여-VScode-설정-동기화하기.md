@@ -1,5 +1,5 @@
 ---
-title: "Gist를 이용하여 기기간 VScode 설정 동기화"
+title: "Github Gist를 이용하여 VScode 설정 동기화하기"
 
 date: 2019-06-18
 
@@ -20,11 +20,15 @@ tags:
   - Github
 ---
 
-Github Gist를 이용하여 여러기기에 VScode Extention 공유하는 방법에 대해 알아보자
+Github Gist를 이용하여 여러기기에 VScode Extention을 공유하는 방법에 대해 알아보자
 
 ## Settings Sync
 
 <https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync>
+
+VScode Extention중 하나인 Settings Sync 마켓플레이스 공식 페이지이다. 설치와 관련된 자세한 설명을 볼 수 있다.
+
+설치와 사용하는 방법을 간단하게 요약하면 아래와 같다
 
 ## VScode에서 Extention 설치하기
 
@@ -47,7 +51,7 @@ GitHub 계정 로그인 > Settings > Developer settings> Personal Access Tokens 
 
 Shift + Alt + U
 
-Output에 Gist Id가 생성된다
+VScode Output에 Gist Id가 생성된다
 
 CODE SETTINGS SYNC UPLOAD SUMMARY  
 Version: 3.2.9
