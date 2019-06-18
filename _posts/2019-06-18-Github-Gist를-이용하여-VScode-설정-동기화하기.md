@@ -45,6 +45,11 @@ GitHub 계정 로그인 > Settings > Developer settings> Personal Access Tokens 
 토큰 사용 용도로 gist를 체크
 
 ![generated new token](/assets/images/gist_3.png)
+
+<figure>
+  <img src="/assets/images/gist_3.png" alt="generated new token" />
+  <figcaption>생성된 토큰은 복사해서 보관</figcaption>
+</figure>
 생성된 토큰은 복사해서 보관
 
 ## 셋팅값을 Gist에 업로드
@@ -53,12 +58,14 @@ Shift + Alt + U
 
 VScode Output에 Gist Id가 생성된다
 
-CODE SETTINGS SYNC UPLOAD SUMMARY  
+```
+CODE SETTINGS SYNC UPLOAD SUMMARY
 Version: 3.2.9
 
-GitHub Token: ~~~  
-GitHub Gist: ~~~  
+GitHub Token: ************
+GitHub Gist: ************
 GitHub Gist Type: Secret
+```
 
 ## 다른 기기에서 Gist에 업로드된 셋팅값 다운로드하기
 
