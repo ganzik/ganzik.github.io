@@ -28,36 +28,36 @@ tags:
 <figcaption>Unable to update run-time folder sharing status: VMware Tools are not running in the guest</figcaption>
 </figure>
 
-3. Guest에 vmware-tools 설치 (ubuntu desktop환경)
+## Guest에 vmware-tools 설치 (ubuntu desktop환경)
 
-   - Guest 버추얼머신을 실행시키고 메뉴에서 Virtual Machine - Install VMware Tools를 선택
+- Guest 버추얼머신을 실행시키고 메뉴에서 Virtual Machine - Install VMware Tools를 선택
 
-   - CDROM이 삽입되고 `/media/root/VMware Tools`에 마운트된다
+- CDROM이 삽입되고 `/media/root/VMware Tools`에 마운트된다
 
-   ```bash
-   # /media/root/VMware Tools 디렉토리로 이동
-   cd /media/root/VMware\ Tools/
+```bash
+# /media/root/VMware Tools 디렉토리로 이동
+cd /media/root/VMware\ Tools/
 
-   # /tmp 디렉토리에 tar묶음을 풀고 gz압축을 해제한다.
-   tar xvfz VMwareTools-10.2.0-7259539.tar.gz -C /tmp
+# /tmp 디렉토리에 tar묶음을 풀고 gz압축을 해제한다.
+tar xvfz VMwareTools-10.2.0-7259539.tar.gz -C /tmp
 
-   # /tmp/vmware-tools-distrib 디렉토리로 이동한다
-   cd /tmp/vmware-tools-distrib
+# /tmp/vmware-tools-distrib 디렉토리로 이동한다
+cd /tmp/vmware-tools-distrib
 
-   # 설치 파일을 실행한다
-   ./vmware-install.pl
+# 설치 파일을 실행한다
+./vmware-install.pl
 
-   # yes를 누르고 전부 엔터를 누른다
+# yes를 누르고 전부 엔터를 누른다
 
-   # 재부팅한다
-   init 6
+# 재부팅한다
+init 6
 
-   # /mnt/hgfs 폴더로 이동해서 리스트를 검색한다
-   cd /mnt/hgfs
-   ls -al
-   ```
+# /mnt/hgfs 폴더로 이동해서 리스트를 검색한다
+cd /mnt/hgfs
+ls -al
+```
 
-> Guest에 vmware-tools 설치 (ubuntu server환경)
+## Guest에 vmware-tools 설치 (ubuntu server환경)
 
 - Guest 버추얼머신을 실행시키고 메뉴에서 Virtual Machine - Install VMware Tools를 선택
 
@@ -92,7 +92,7 @@ tags:
   ls -al
   ```
 
-> ntfs, samba 등으로 마운트 할때는 포멧 위치에 알맞은 포멧을 사용하면 된다(이때도 -t옵션은 동일)
+### ntfs, samba 등으로 마운트 할때는 포멧 위치에 알맞은 포멧을 사용하면 된다(이때도 -t옵션은 동일)
 
 ```bash
 mount -t ntfs /dev/hda2 /mnt/winxp
