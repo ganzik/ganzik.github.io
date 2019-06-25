@@ -23,8 +23,8 @@ gallery2019:
     title: "가을 반영"
   - url: /assets/photo/bridge.jpg
     image_path: /assets/photo/bridge.jpg
-    alt: "Bridge"
-    title: "Bridge"
+    alt: "방화대교"
+    title: "방화대교"
 ---
 
 <h2 id="2019">2019</h2>
