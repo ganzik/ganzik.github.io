@@ -1,7 +1,7 @@
 ---
-title: "Photography"
-# layout: categories
 permalink: /photography/
+# title: "Photography"
+# layout: categories
 author_profile: true
 classes: wide
 gallery:
