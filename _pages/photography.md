@@ -3,8 +3,10 @@ permalink: /photography/
 # title: "Photography"
 # layout: categories
 author_profile: true
-classes: wide
-gallery:
+# classes: wide
+toc: true
+toc_sticky: true
+gallery2019:
   - url: /assets/photo/hanriver.jpg
     image_path: /assets/photo/hanriver.jpg
     alt: "겨울 한강 야경"
@@ -23,4 +25,6 @@ gallery:
     title: "Bridge"
 ---
 
-{% include gallery id="gallery" layout="half" %}
+## 2019
+
+{% include gallery id="gallery2019" layout="half" %}
