@@ -15,8 +15,8 @@ main:
   # - title: "About"
   #   url: https://ganzik.github.io/about/f
 
-  photo:
+  photo: 
     - title: Years
-    children:
+    children: 
       - title: "2019"
       url: /photography/#2019
