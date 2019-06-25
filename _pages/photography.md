@@ -1,11 +1,11 @@
 ---
 permalink: /photography/
 title: "KIMKIHONG PHOTOGRAPHY"
-layout: splash
+layout: single
 # author_profile: true
-# classes: wide
-toc: true
-toc_sticky: true
+classes: wide
+# toc: true
+# toc_sticky: true
 gallery2019:
   - url: /assets/photo/hanriver.jpg
     image_path: /assets/photo/hanriver.jpg
