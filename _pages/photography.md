@@ -22,4 +22,4 @@ gallery:
     title: "Bridge"
 ---
 
-{% include gallery id="gallery" layout="half" %}
+{% include gallery id="gallery" layout="half" class="full" %}
