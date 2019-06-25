@@ -7,10 +7,7 @@ classes: wide
 # toc: true
 # toc_sticky: true
 sidebar:
-  - title: Years
-  children:
-    - title: "2019"
-    url: /photography/#2019
+  nav: "photo"
 gallery2019:
   - url: /assets/photo/hanriver.jpg
     image_path: /assets/photo/hanriver.jpg

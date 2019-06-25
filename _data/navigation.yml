@@ -14,3 +14,9 @@ main:
   #  url: /sitemap/
   # - title: "About"
   #   url: https://ganzik.github.io/about/f
+
+  photo:
+    - title: Years
+    children:
+      - title: "2019"
+      url: /photography/#2019
