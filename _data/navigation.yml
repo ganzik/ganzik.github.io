@@ -5,7 +5,7 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "Photography"
-    url: /Photography/
+    url: /photography/
   # - title: "Tags"
   #   url: /tags/
   # - title: "Sample Collections"
@@ -13,4 +13,4 @@ main:
   # - title: "Sitemap"
   #  url: /sitemap/
   # - title: "About"
-  #   url: https://ganzik.github.io/about/
+  #   url: https://ganzik.github.io/about/f
