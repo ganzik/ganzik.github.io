@@ -10,7 +10,7 @@ sidebar:
   - title: Years
   children:
     - title: "2019"
-    url: /#2019
+    url: /photography/#2019
 gallery2019:
   - url: /assets/photo/hanriver.jpg
     image_path: /assets/photo/hanriver.jpg
