@@ -1,5 +1,5 @@
 ---
-title: "Photography"
+# title: "Photography"
 # layout: categories
 permalink: /photography/
 author_profile: true
