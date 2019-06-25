@@ -1,9 +1,9 @@
 ---
 permalink: /photography/
-title: "KIMKIHONG Photography"
-# layout: categories
+title: "KIMKIHONG PHOTOGRAPHY"
+layout: splash
 # author_profile: true
-classes: wide
+# classes: wide
 toc: true
 toc_sticky: true
 gallery2019:
