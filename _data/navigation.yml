@@ -4,11 +4,13 @@ main:
     url: /year-archive/
   - title: "Categories"
     url: /categories/
+  - title: "Photography"
+    url: /Photography/
   # - title: "Tags"
   #   url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #  url: /sitemap/
-  - title: "About"
-    url: https://ganzik.github.io/about/
+  # - title: "About"
+  #   url: https://ganzik.github.io/about/
