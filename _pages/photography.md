@@ -6,6 +6,11 @@ layout: single
 classes: wide
 # toc: true
 # toc_sticky: true
+sidebar:
+  - title: Years
+  children:
+    - title: "2019"
+    url: /#2019
 gallery2019:
   - url: /assets/photo/hanriver.jpg
     image_path: /assets/photo/hanriver.jpg
@@ -25,6 +30,6 @@ gallery2019:
     title: "Bridge"
 ---
 
-## 2019
+<h2 id="2019">2019</h2>
 
 {% include gallery id="gallery2019" layout="half" %}
