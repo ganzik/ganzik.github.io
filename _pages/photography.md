@@ -1,6 +1,6 @@
 ---
 permalink: /photography/
-# title: "Photography"
+title: "KIMKIHONG Photography"
 # layout: categories
 author_profile: true
 # classes: wide
