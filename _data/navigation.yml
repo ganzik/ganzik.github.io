@@ -17,6 +17,6 @@ main:
 
   photo: 
     - title: Years
-    children: 
-      - title: "2019"
-      url: /photography/#2019
+      children: 
+        - title: "2019"
+        url: /photography/#2019
