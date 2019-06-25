@@ -3,6 +3,7 @@ title: "Photography"
 # layout: categories
 permalink: /photography/
 author_profile: true
+classes: wide
 gallery:
   - url: /assets/photo/hanriver.jpg
     image_path: /assets/photo/hanriver.jpg
@@ -22,4 +23,4 @@ gallery:
     title: "Bridge"
 ---
 
-{% include gallery id="gallery" layout="half" class="full" %}
+{% include gallery id="gallery" layout="half" %}
