@@ -35,6 +35,10 @@ gallery2012:
     image_path: /assets/photo/seongsubridge.jpg
     alt: "성수대교"
     title: "성수대교"
+  - url: /assets/photo/olympicpark.jpg
+    image_path: /assets/photo/olympicpark.jpg
+    alt: "올림픽공원"
+    title: "올림픽공원"
 ---
 
 <h2 id="2019">2019</h2>
