@@ -25,8 +25,17 @@ gallery2019:
     image_path: /assets/photo/bridge.jpg
     alt: "방화대교"
     title: "방화대교"
+gallery2012:
+  - url: /assets/photo/hanriver-sungsu.jpg
+    image_path: /assets/photo/hanriver-sungsu.jpg
+    alt: "한강 야경"
+    title: "한강 야경"
 ---
 
 <h2 id="2019">2019</h2>
 
 {% include gallery id="gallery2019" layout="half" %}
+
+<h2 id="2012">2012</h2>
+
+{% include gallery id="gallery2012" layout="half" %}
