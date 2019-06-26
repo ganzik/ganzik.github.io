@@ -15,8 +15,8 @@ gallery2019:
     title: "해 질 녘"
   - url: /assets/photo/reflection.jpg
     image_path: /assets/photo/reflection.jpg
-    alt: "가을 반영"
-    title: "가을 반영"
+    alt: "가을"
+    title: "가을"
   - url: /assets/photo/bridge.jpg
     image_path: /assets/photo/bridge.jpg
     alt: "방화대교"
@@ -24,13 +24,17 @@ gallery2019:
 gallery2014:
   - url: /assets/photo/hanriver.jpg
     image_path: /assets/photo/hanriver.jpg
-    alt: "겨울 한강 야경"
-    title: "겨울 한강 야경"
+    alt: "한강"
+    title: "한강"
 gallery2012:
   - url: /assets/photo/hanriver-sungsu.jpg
     image_path: /assets/photo/hanriver-sungsu.jpg
-    alt: "한강 야경"
-    title: "한강 야경"
+    alt: "한강"
+    title: "한강"
+  - url: /assets/photo/seongsubridge.jpg
+    image_path: /assets/photo/seongsubridge.jpg
+    alt: "성수대교"
+    title: "성수대교"
 ---
 
 <h2 id="2019">2019</h2>
