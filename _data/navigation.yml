@@ -20,5 +20,7 @@ photo:
     children:
       - title: "2019"
         url: /photography/#2019
+      - title: "2014"
+        url: /photography/#2014
       - title: "2012"
         url: /photography/#2012

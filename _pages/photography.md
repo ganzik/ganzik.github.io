@@ -9,10 +9,6 @@ classes: wide
 sidebar:
   nav: "photo"
 gallery2019:
-  - url: /assets/photo/hanriver.jpg
-    image_path: /assets/photo/hanriver.jpg
-    alt: "겨울 한강 야경"
-    title: "겨울 한강 야경"
   - url: /assets/photo/silhouette.jpg
     image_path: /assets/photo/silhouette.jpg
     alt: "해 질 녘"
@@ -25,6 +21,11 @@ gallery2019:
     image_path: /assets/photo/bridge.jpg
     alt: "방화대교"
     title: "방화대교"
+gallery2014:
+  - url: /assets/photo/hanriver.jpg
+    image_path: /assets/photo/hanriver.jpg
+    alt: "겨울 한강 야경"
+    title: "겨울 한강 야경"
 gallery2012:
   - url: /assets/photo/hanriver-sungsu.jpg
     image_path: /assets/photo/hanriver-sungsu.jpg
@@ -35,6 +36,10 @@ gallery2012:
 <h2 id="2019">2019</h2>
 
 {% include gallery id="gallery2019" layout="half" %}
+
+<h2 id="2014">2014</h2>
+
+{% include gallery id="gallery2014" layout="half" %}
 
 <h2 id="2012">2012</h2>
 
