@@ -43,6 +43,10 @@ gallery2012:
     image_path: /assets/photo/twilight.jpg
     alt: "황혼"
     title: "황혼"
+  - url: /assets/photo/necktie.jpg
+    image_path: /assets/photo/necktie.jpg
+    alt: "넥타이"
+    title: "넥타이"
 ---
 
 <h2 id="2019">2019</h2>
