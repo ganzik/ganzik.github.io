@@ -39,6 +39,10 @@ gallery2012:
     image_path: /assets/photo/olympicpark.jpg
     alt: "올림픽공원"
     title: "올림픽공원"
+  - url: /assets/photo/twilight.jpg
+    image_path: /assets/photo/twilight.jpg
+    alt: "황혼"
+    title: "황혼"
 ---
 
 <h2 id="2019">2019</h2>
