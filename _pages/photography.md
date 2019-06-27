@@ -31,6 +31,7 @@ gallery2012:
     image_path: /assets/photo/hanriver-sungsu.jpg
     alt: "한강"
     title: "한강"
+    loading: "lazy"
   - url: /assets/photo/seongsubridge.jpg
     image_path: /assets/photo/seongsubridge.jpg
     alt: "성수대교"
